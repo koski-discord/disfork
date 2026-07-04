@@ -19,7 +19,7 @@ wish were easier to control in bigger bots.
 ## Install
 
 ```bash
-pip install -e .
+pip install git+https://github.com/koski-discord/disfork.git
 ```
 
 ## Example
